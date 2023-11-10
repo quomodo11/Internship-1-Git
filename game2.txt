@@ -1,6 +1,6 @@
-[quomodo11] ima x pobjeda i y poraza!
-[goretante] ima z pobjeda i n poraza!
+[quomodo11] ima 2 pobjeda i 1 poraza!
+[goretante] ima 2 pobjeda i 1 poraza!
 
 . . X
 . X o
-X . o
+X o o
